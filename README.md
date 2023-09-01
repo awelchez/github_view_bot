@@ -5,6 +5,7 @@ This is a Python script for simulating views on a GitHub profile. It uses HTTP r
 Before you can use this script, make sure you have the following installed:
 
 Python 3.x
+
 httpx library (install it using pip install httpx)
 
 BeautifulSoup library (install it using pip install beautifulsoup4)
