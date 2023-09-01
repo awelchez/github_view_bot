@@ -19,8 +19,6 @@ You may need to modify the following variables in the script:
 
 url: This is simply the URL for your profile views
 
-Inside the main() function, you can modify the range integer to specify the number of views you want to simulate. The script will use multiprocessing to speed up the process.
-
 Run the script:
 
 `python github_view_bot.py`
